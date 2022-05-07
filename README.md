@@ -4,6 +4,13 @@ We were excited to have the opportunity to work for V. Isualize and hope you ple
 
 # Results
 ***
+
+Bubble Chart -
+
+Box & Whisker Plot - 
+
+Pie Chart -
+
 Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 -The purpose of the new analysis is well defined.
 -There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
