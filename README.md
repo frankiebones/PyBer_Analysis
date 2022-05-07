@@ -11,13 +11,17 @@ We were excited to have the opportunity to work for V. Isualize and hope you ple
 
 
 # Results
+Bubble Chart  
 
+![Fig1](https://user-images.githubusercontent.com/15967377/167271586-e7e31150-8291-453f-ba61-676819056371.png)
+***
 
+Box & Whisker Plots  
 
-Bubble Chart -
-
-Box & Whisker Plot - 
-
+![Fig2](https://user-images.githubusercontent.com/15967377/167271538-10d3b129-6e71-4674-8a57-ed743349586e.png)
+![Fig3](https://user-images.githubusercontent.com/15967377/167271541-6097264d-b468-4096-874b-a8112abe1a34.png)
+![Fig4](https://user-images.githubusercontent.com/15967377/167271545-1994ecb2-bf03-4a8c-a6c5-a29f05ca4198.png)
+***
 Pie Chart -
 
 Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
