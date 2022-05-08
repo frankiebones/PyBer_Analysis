@@ -23,6 +23,7 @@ Box & Whisker Plots
 ![Fig4](https://user-images.githubusercontent.com/15967377/167271545-1994ecb2-bf03-4a8c-a6c5-a29f05ca4198.png)
 ***
 Pie Chart -
+![Fig5](analysis/Fig5.png)
 
 Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 -The purpose of the new analysis is well defined.
