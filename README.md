@@ -25,7 +25,7 @@ Based on the information we compiled, we were able to determine that while the U
 
 As one might expect, the Urban city type had about 50% more total fares than the Suburban city type, however, the average fare per driver for the Suburban city type was over 138% more than the average fare per driver for the Urban city type.
 
-| ![Weekly Summary Table](analysis/weekly_summary.PNG) |
+| |
 |:--:|
 | **Pyber Weekly Summary by City Type Table** |
 
