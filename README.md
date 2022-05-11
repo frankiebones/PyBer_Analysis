@@ -7,6 +7,7 @@
 ***
 # Overview
 
+Our task was to identify differences in the total weekly fares for each of the three city types.
 We were excited to have the opportunity to work for V. Isualize and hope you will be pleased with our presentation as Omar and I worked dilligently to bring this to you today. While we could have used the MATLAB approach for everything we needed, we chose to showcase our abilites by at times using the Object-Oriented approach as an homage to the time V. Isualize spent as a programmer at MathWorks.  
 
 
@@ -20,6 +21,9 @@ The 'ride_id' is a unique identifier for each ride which allows us to easily get
 |:--:|
 | **Pyber Summary DataFrame** |
 
+Based on the information we compiled, we were able to determine that while the Urban city type had more than 80% of the total drivers, it had less than 70% of the total rides. 
+
+As one might expect, the Urban city type had about 50% more total fares than the Suburban city type, however, the average fare per driver for the Suburban city type was over 138% more than the average fare per driver for the Urban city type.
 
 | ![Weekly Summary Table](analysis/weekly_summary.PNG) |
 |:--:|
@@ -27,14 +31,12 @@ The 'ride_id' is a unique identifier for each ride which allows us to easily get
 
 ![PyBer Line Chart](analysis/Pyber_fare_summary.png)
 
-Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
--The purpose of the new analysis is well defined.
--There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
-
 # Summary
 ***
-Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
--There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.
+
+1. Based on the ratio of total Urban drivers compared to the total Urban rides, it is likely there is more competition within the Urban city type. Offering an incentive for Urban drivers to expand their range to cover the Suburban and Rural areas could decrease the amount of competition as well as increase the per driver average fare. 
+2. With an increase in fares for only the Suburban city type at the end of April, it may be beneficial next year to have Rural and Urban drivers available to handle that increase.
+3. Decreasing the average fare in the Rural city type may increase volume and likely do so with little effect to the average fare per driver.
 
 ***
 ![ffd700](https://user-images.githubusercontent.com/15967377/167264671-29ccef9c-4055-4c43-a859-94b468ccd0ec.png)
