@@ -11,6 +11,12 @@ We were excited to have the opportunity to work for V. Isualize and hope you ple
 
 
 # Results
+
+The 'ride_id' is a unique identifier for each ride which allows us to easily get an overview of data such as the total number of rides for each city 'type' by grouping each city 'type' and counting the 'ride_id'.
+    total_rides = pyber_data_df.groupby('type')['ride_id'].count()
+    
+ADD IN summary_df.png
+
 Bubble Chart  
 
 ![Fig1](https://user-images.githubusercontent.com/15967377/167271586-e7e31150-8291-453f-ba61-676819056371.png)
