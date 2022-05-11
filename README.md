@@ -20,6 +20,11 @@ The 'ride_id' is a unique identifier for each ride which allows us to easily get
 |:--:|
 | **Pyber Summary DataFrame** |
 
+
+| ![Weekly Summary Table](analysis/weekly_summary.PNG) |
+|:--:|
+| **Pyber Weekly Summary by City Type Table** |
+
 Bubble Chart  
 
 ![Fig1](https://user-images.githubusercontent.com/15967377/167271586-e7e31150-8291-453f-ba61-676819056371.png)
